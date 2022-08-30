@@ -1,5 +1,5 @@
 -- Preparing a preliminary report
--- Focusin on the development of music industry
+-- Focusing on the development of music industry
 -- Database: albums
 
 SELECT *
